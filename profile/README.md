@@ -1,6 +1,7 @@
 Two developers building things we care about. Telegram bots, indie games, and open-source tools.
 
-Currently working on ludicegpt, fc-demo and ZeroFrames.
+Currently working on [ludicegpt](https://github.com/LudiceTeam/ludicegpt), [fc-demo](https://github.com/LudiceTeam/fc-demo) and [ZeroFrames](https://github.com/LudiceTeam/ZeroFrames).
+<!--
 <!--
 
 **Here are some ideas to get you started:**
