@@ -1,5 +1,6 @@
-## Hi there 👋
+Two developers building things we care about. Telegram bots, indie games, and open-source tools.
 
+Currently working on ludicegpt, fc-demo and ZeroFrames.
 <!--
 
 **Here are some ideas to get you started:**
